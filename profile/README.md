@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Obelisk-Protocol">
-    <!-- Updated image source to use the raw GitHub content URL for the horizontal logo -->
-    <img src="https://raw.githubusercontent.com/Obelisk-Protocol/obelisklandingpage/main/public/images/obelisk_horizontal_white.png" alt="Obelisk Protocol Logo" height="50"> <!-- Adjusted height for horizontal logo -->
+    <!-- Updated image source to use the raw GitHub content URL within the .github repo -->
+    <img src="https://raw.githubusercontent.com/Obelisk-Protocol/.github/main/assets/obelisk_horizontal_white.png" alt="Obelisk Protocol Logo" height="50"> <!-- Adjusted height for horizontal logo -->
   </a>
   <h1>Obelisk Protocol</h1>
   <p><strong>Built to Last. Powered by Play.</strong></p>
